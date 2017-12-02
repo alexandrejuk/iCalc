@@ -1,4 +1,4 @@
-const app = angular.module('starter', ['ionic']);
+const app = angular.module('icalc', ['ionic']);
 app.run(function($ionicPlatform) {
   $ionicPlatform.ready(function() {
     if (window.cordova && window.cordova.plugins.Keyboard) {
