@@ -1,1 +1,57 @@
-/* Empty. Add your own CSS if you like */
+.title {
+  color: #e33d60 !important;
+  text-align: center !important;
+}
+.button {
+  background-color: #fff;
+  color: #9f0f2b;
+  border: 0.5px solid #e33d60;
+  border-radius: 0px;
+  margin-top: 2px;
+  margin-left: 2px;
+  vertical-align: middle;
+}
+.button:hover {
+  background-color: #e33d60;
+  color: #fce3e8;
+}
+.center-position {
+ margin-top: 50%;
+ margin-left: 12%;
+}
+.position-result {
+  margin-top: 10%;
+  margin-left: 12%;
+  margin-bottom: 5%;
+}
+.equation {
+  font-size: 20px;
+  display: inline-block;
+	vertical-align: middle;
+	padding-right: 12px;
+	color: #6f6f6f;
+}
+.equal {
+  font-size: 20px;
+  color: #ae1130;
+}
+.result {
+  font-size: 20px;
+  color: #ae1130;
+  text-align: center;
+}
+.clean {
+  font-size: 14px;
+}
+.position-clean {
+  margin-left: 12%;
+  margin-bottom: 3%;
+}
+.position-clean a {
+  color: #700b1f;
+  text-decoration: none;
+}
+.position-clean a:hover {
+  color: #ae1130;
+  text-decoration: underline;
+}
