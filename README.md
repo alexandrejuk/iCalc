@@ -11,10 +11,10 @@ O iCALC é uma calculadora construida em Ionic/V1 e AngularJS.
 4. Executar o projeto: ionic serve --lab
 5. Abrir o browser: http://localhost:8100
 
-# Screenshot
+## Screenshot
 ![iCalcPage](./screenshots/iCalcPage.png)
    
-# Author
+## Author
 [Alexandre dos Santos Soares](https://github.com/alexandrejuk)
 
 ## License
