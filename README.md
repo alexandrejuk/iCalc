@@ -17,3 +17,6 @@ O iCALC é uma calculadora construida em Ionic/V1 e AngularJS.
 # Author
 [Alexandre dos Santos Soares](https://github.com/alexandrejuk)
 
+## License
+[MIT](https://github.com/alexandrejuk/iCalc/blob/master/LICENSE)
+
